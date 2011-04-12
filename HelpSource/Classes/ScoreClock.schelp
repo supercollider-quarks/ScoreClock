@@ -96,7 +96,7 @@ Routine {
         0.25.wait;
         y.release;
     }
-}.play(NRTClock.new);
+}.play(ScoreClock.new);
 
 ~score = ScoreClock.makeScore;
 )
