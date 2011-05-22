@@ -1,6 +1,6 @@
 class:: ScoreClock
 summary:: Create a Score by capturing OSC and timings
-categories:: Scheduling>Clocks, OpenSoundControl
+categories:: Quarks>ScoreClock, Scheduling>Clocks, OpenSoundControl
 related:: Classes/Score, Guides/Non-Realtime-Synthesis
 
 Description::

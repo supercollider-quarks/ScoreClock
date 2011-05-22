@@ -1,0 +1,7 @@
+title:: ScoreClock
+summary:: Create a Score by capturing OSC and timings
+categories:: Quarks>ScoreClock
+
+description::
+This quark adds the class link::Classes/ScoreClock::, see helpfile for this class for more information.
+
