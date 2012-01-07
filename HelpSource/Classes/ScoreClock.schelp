@@ -6,6 +6,8 @@ related:: Classes/Score, Guides/Non-Realtime-Synthesis
 Description::
 ScoreClock simplifies NRT synthesis by capturing OSC messages and timings of anything sent to the default server, and returns a Score object that can then be rendered to file or played back.
 
+2011 Jonatan Liljedahl
+
 ClassMethods::
 private:: initClass
 
